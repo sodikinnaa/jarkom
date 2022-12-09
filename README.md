@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/80803209/206598021-1ab1df07-d37e-4a38-905f-b01760d1ad65.png)
 
 #Router 0
-Router>enable
+>Router>enable
 Router#configure
 Router(config)#interface fa0/0
 Router(config-if)#ip add 192.168.1.1 255.255.255.0
